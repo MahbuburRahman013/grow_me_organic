@@ -1,0 +1,10 @@
+[
+	{
+  	"department": "design",
+  	"sub_departments": [
+    	"graphic_design",
+    	"product_design",
+    	"web_design"
+  	]
+	}
+  ]
