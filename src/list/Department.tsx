@@ -6,7 +6,7 @@ import Checkbox from "@mui/material/Checkbox";
 import FormControlLabel from "@mui/material/FormControlLabel";
 
 const Department = () => {
-  const [data, setData] = useState<string[]>([]);
+  const [data, setData] = useState<any[]>([]);
   const [isTrue, setIsTrue] = useState<boolean>(false);
   const [colaps1, setColaps1] = useState<boolean>(true);
   const [checked, setChecked] = useState<boolean[]>([false, false, false]);
